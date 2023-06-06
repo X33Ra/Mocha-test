@@ -16,9 +16,10 @@ When doing mocha:
   > the [.json] acts similarly to a cloud as to why it is at the direct line of the folder
 # Very important reminder!
   > .js files are a bitch and they dont want you touching things so if you are planning on fixing syntax do [/file_directory$ eslint filename.js --fix]
-
+  > npm init -y [is shortcut to create a json withought the hastle of accepting through conditions]
 #
 </p>
 
 6. do npm [foldername]
   > it should work after
+
